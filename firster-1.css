@@ -1,0 +1,120 @@
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    }
+
+.logo {
+    padding-top: 15.5px;
+
+}
+
+.nav {
+    display: flex;
+}
+a { text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding-right: 50px;
+    }
+
+li { list-style-type: none;
+    padding: 10px;
+    }
+
+ul {
+    display: flex;
+    justify-content: end;
+    background-color:black;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px; 
+}
+.green {
+    color: green;
+}
+.write {
+    text-align: justify;
+}
+.header {
+    display: flex;
+    margin-left: 75px;
+    padding-bottom: 75px;
+    }
+
+.headtext {
+    text-transform: uppercase;
+    font-size: 40px;
+    color:orange;
+}
+
+h3 { text-align: center;
+    color: orange;
+
+}
+
+.pic {
+    padding-left: 80px;
+    padding-top: 60px;
+}
+
+.button {
+    text-transform: uppercase;
+    font-weight: bold;
+    border: none;
+    padding: 10px 10px;
+    color: white;
+    background-color:green;
+}
+h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.country {
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:lightgray;
+}
+
+.border {
+    padding: 10px;
+    margin: 20px;
+    background-color: rgba(250, 250, 210, 0.753);
+}
+.our {
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 490px;
+    padding-left: 490px;
+}
+
+.mid {
+    display: flex;
+    padding-top: 70px;
+}
+
+.review {
+    display: flex;
+}
+
+.three {
+    margin: 20px;
+    border: 4px solid;
+    border-color: aliceblue;
+    padding: 20px;
+}
+
+
+.mob {
+    display: flex;
+    align-items: center;
+}
+
+
+h4 {
+margin-left: 10px;
+}
+.bkash {
+    margin-left: 700px;
+}
